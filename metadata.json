@@ -1,0 +1,8 @@
+{
+  "name": "UniTrack — University Academic Tracker",
+  "description": "Smart University Management System for Varandra University B.Sc. in CSE (Team One Piece), featuring Student BST, Circular Registration Queue, Activity Stack, Class & Exam Routines, Tasks, Calendar, and Performance Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
